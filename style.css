@@ -4,6 +4,8 @@ h1{
 }
 p {color:Aquamarine;
     font-family: "Lucida Console", "Courier New", monospace;
+   border: 2px solid red;
+   border-radius: 10px;
   }
 title{color:red;}
 h1 {color:AntiqueWhite;}
