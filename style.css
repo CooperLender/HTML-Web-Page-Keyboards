@@ -2,7 +2,9 @@
 h1{
   color:blue;
 }
-p {color:Aquamarine;}
+p {color:Aquamarine;
+    font-family: "Lucida Console", "Courier New", monospace;
+  }
 title{color:red;}
 h1 {color:AntiqueWhite;}
 body{
