@@ -12,3 +12,6 @@ h1 {color:AntiqueWhite;}
 body{
 background-color: rgb(10,10,10);
 }
+#parts{
+border: 3px solid black;
+}
