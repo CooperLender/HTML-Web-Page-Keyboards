@@ -15,3 +15,7 @@ background-color: rgb(10,10,10);
 #parts{
 border: 3px solid black;
 }
+.type1{
+     border-radius: 5px;
+}
+
