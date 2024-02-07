@@ -1,11 +1,13 @@
 
 h1{
   color:blue;
+  text-allign: center;
 }
 p {color:Aquamarine;
     font-family: "Lucida Console", "Courier New", monospace;
    border: 2px solid red;
    border-radius: 5px;
+   text-allign: center;
   }
 title{color:red;}
 h1 {color:AntiqueWhite;}
@@ -21,5 +23,7 @@ border: 3px solid black;
 img
 {
   width: 45%
+  display: block;
+  margin: auto;
 }
 
