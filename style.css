@@ -1,16 +1,27 @@
-
+	
 h1{
-  color:blue;
-  text-allign: center;
+  color:AntiqueWhite;
+  text-align: center;
+  animation-duration: 5s;
+  animation-name: movement;
+  animation-direction: normal;
+  position: relative;
+  animation-timing-function: ease-out;
+}
+@keyframes movement 
+{
+0% {left:-1200px; top:0px;}
+100% {left:0px; top:0px;}
 }
 p {color:Aquamarine;
     font-family: "Lucida Console", "Courier New", monospace;
    border: 2px solid red;
    border-radius: 5px;
-   text-allign: center;
+   text-align: center;
+   
   }
 title{color:red;}
-h1 {color:AntiqueWhite;}
+
 body{
 background-color: rgb(10,10,10);
 }
@@ -22,7 +33,7 @@ border: 3px solid black;
 }
 img
 {
-  width: 45%
+  width: 80%; 
   display: block;
   margin: auto;
 }
